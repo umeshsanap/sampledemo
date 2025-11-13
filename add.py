@@ -1,1 +1,3 @@
-print(5+10)
+a = 10
+b = 20
+print(a + b)
